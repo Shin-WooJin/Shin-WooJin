@@ -9,6 +9,7 @@
 <br/>
 
 <b>About me</b>
+
 - I am studying computer science at Chungbuk National University.
 
 <br/>
