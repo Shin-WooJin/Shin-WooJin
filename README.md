@@ -6,11 +6,11 @@
 
 [![woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-woojin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br/>
 <b>About me</b>
 - I am studying computer science at Chungbuk National University.
 
-
+<br/>
 ## :shamrock: Skill
 <a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
