@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&hide=stars,commits,prs,issues,contribs&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&hide=stars,commits,prs,issues,contribs" />
 </a>
 
 ## :shamrock: Skill
