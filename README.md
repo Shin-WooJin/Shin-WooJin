@@ -6,6 +6,8 @@
 
 [![woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-woojin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
 <b>About me</b>
 
 - I am studying computer science at Chungbuk National University.
