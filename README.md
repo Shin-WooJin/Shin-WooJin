@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90">
-![WooJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-WooJin&count_private=true)
+![WooJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-woojin&count_private=true)
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
 
 ## :shamrock: Skill
