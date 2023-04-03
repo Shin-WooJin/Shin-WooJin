@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shin-woojin&hide=stars,commits,prs,issues,contribs" />
-</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :shamrock: Skill
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
