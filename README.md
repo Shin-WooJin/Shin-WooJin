@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90">
 </a>
 
-[![woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-woojin&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-woojin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 About me
 - I am studying computer science at Chungbuk National University.
