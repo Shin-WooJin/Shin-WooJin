@@ -7,6 +7,7 @@
 <b>About me</b>
 - I am studying computer science at Chungbuk National University.
 
+
 ## :shamrock: Skill
 <a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
