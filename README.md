@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90">
-![WooJin GitHub stats](https://github-readme-stats.vercel.app/api?username=swooojin)
+![WooJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=swooojin&show_icons=true&theme=radical)
 
 ## :shamrock: Skill
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
