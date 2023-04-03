@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90">
-![WooJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-woojin&count_private=true)
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&hide=stars,commits,prs,issues,contribs&repo=github-readme-stats" />
+</a>
 
 ## :shamrock: Skill
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
