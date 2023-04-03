@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=Hello:)&fontSize=90" />
 
-:shamrock:<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+<center>:shamrock:<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/><center>
 
 
 <!--
